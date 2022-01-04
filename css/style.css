@@ -11,6 +11,7 @@ body{
 .link{
     text-decoration: none;
     color: inherit;
+    transition: color 0.25s ease-in-out;
 }
 .link:hover {
     color: hsl(178, 100%, 50%)
